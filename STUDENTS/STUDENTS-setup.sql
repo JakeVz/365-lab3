@@ -1,5 +1,5 @@
 #Jake Veazey | wveazey@calpoly.edu
-
+#Abhinav Singh | asingh54@calpoly.edu
 
 CREATE TABLE list (
    lastName VARCHAR(30) PRIMARY KEY,
