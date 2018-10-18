@@ -1,4 +1,5 @@
 #Jake Veazey | wveazey@calpoly.edu
+#Abhinav Singh | asingh54@calpoly.edu
 
 INSERT INTO list(LastName, FirstName, Grade, Classroom) VALUES ('CAR', 'MAUDE', 2, 101);
 INSERT INTO list(LastName, FirstName, Grade, Classroom) VALUES ('KRISTENSEN', 'STORMY', 6, 112);
