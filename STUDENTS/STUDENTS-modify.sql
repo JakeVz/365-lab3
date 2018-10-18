@@ -1,4 +1,5 @@
-
+# Jake Veazey & Abhinav Singh
+# wveazey@calpoly.edu & 
 
 ALTER TABLE list ADD COLUMN GPA DOUBLE AFTER Classroom;
 
